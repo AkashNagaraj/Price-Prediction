@@ -11,10 +11,11 @@ import math
 import sys
 
 from simple_linear_regression import LinearRegression
+from lasso_linear_regression import LassoRegression
 
 def pass_to_model(dataframe,target):
     split_ratio = 0.8 
-    model = LinearRegression(learning_rate=0.01, num_iterations=1000)
+    model1 = LinearRegression(learning_rate=0.01, num_iterations=1000)
     scaler = StandardScaler()
     X = scaler.fit_transform(dataframe)
     y = (target-target.mean())/target.std()
@@ -23,8 +24,14 @@ def pass_to_model(dataframe,target):
     split_length = math.ceil(length*split_ratio)
     X_train, X_test, y_train, y_test = X[:split_length], X[split_length:], y[:split_length], y[split_length:]
     
-    model.fit(X_train, y_train)
-    predicted_values = model.predict(X_test)
+    model1.fit(X_train, y_train)
+    predicted_values = model1.predict(X_test)
+    mse = ((predicted_values - y_test.to_numpy())**2)
+    print("MSE value is :", np.average(mse))
+
+    model2 = LassoRegression(iterations = 1000, learning_rate = 0.01, l1_penality = 500)
+    model2.fit(X_train, y_train)
+    predicted_values = model2.predict(X_test)
     mse = ((predicted_values - y_test.to_numpy())**2)
     print("MSE value is :", np.average(mse))
 
@@ -32,11 +39,10 @@ def pass_to_model(dataframe,target):
 
 
 def feature_selection(dataframe,num_columns,target_column):
-    print(dataframe.columns)
     try:
         #1) Select the features which have atleast 30% correlation
         highly_correlated_features = dataframe.columns[~dataframe.corr()[target_column].between(-0.3,0.3, inclusive='both')] 
-        print("The highly correlated features are :",highly_correlated_features)
+        #print("The highly correlated features are :",highly_correlated_features)
 
         try:
         #2) Use information gain to filter out more features
@@ -92,7 +98,6 @@ def remove_null_values(check_dataframe):
 def preprocess_data(dataframe):
     dataframe_without_null, check = remove_null_values(dataframe) 
     assert check==True, "Null values exist"
-    print(dataframe_without_null.columns)
     processed_dataframe = label_encoding(dataframe_without_null)
     return processed_dataframe 
 
