@@ -5,6 +5,8 @@ import seaborn as sns
 from sklearn.feature_selection import mutual_info_classif
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import SGDRegressor
+from sklearn.metrics import mean_squared_error
 
 import argparse
 import math
@@ -51,14 +53,16 @@ def feature_selection(dataframe,num_columns,target_column):
 
             # 3) Create a new dataframe with which includes only the most important features
             new_df = dataframe[feat_importance[1:num_columns+1].index.tolist()]
+            important_features = feat_importance[1:num_columns+1].index.tolist()
         except:
             print("Error extracting the features from the dataframe")
             feat_importance = abs(dataframe.corr()["MEDV"]).sort_values(ascending=False)
             new_df = dataframe[feat_importance[:num_columns+1].index.tolist()]
+            important_features = feat_importance[1:num_columns+1].index.tolist()
     except:
         important_features = abs(dataframe.corr()["SalePrice"]).sort_values(ascending=False).index.tolist()[1:11]
         new_df = dataframe[important_features]
-    return new_df
+    return new_df, important_features
 
 
 def label_encoding(dataframe):
@@ -108,10 +112,42 @@ def read_data(dataname):
         dataframe = pd.read_csv(r"data/"+dataname+".csv", delim_whitespace=True, names=names)
     else:
         dataframe = pd.read_csv("data/"+dataname+".csv")
-    # print("The shape of the data is",dataframe.shape)
-    # print("The head of the dataframe is",dataframe.head())
+    # print("The shape of the data is",dataframe.shape, dataframe.head())
     # To get more information regarding the dataset perform dataframe.describe(), dataframe.info()
     return dataframe
+
+
+def implement_online(dataframe,target):
+    rows, col = dataframe.shape
+    length = int(rows/100*70)
+    
+    scaler = StandardScaler()
+    dataframe = scaler.fit_transform(dataframe)
+    target = (target-target.mean())/target.std()
+
+    # Fit 70% of the data
+    X_initial, y_initial = dataframe[0:length], target[0:length]
+    
+    length = X_initial.shape[0]
+    split_length = math.ceil(length*0.8)
+    X_train, X_test, y_train, y_test = X_initial[:split_length], X_initial[split_length:], y_initial[:split_length], y_initial[split_length:]
+    #X_train, X_test, y_train, y_test = train_test_split(X_initial,y_initial,test_size=0.2,random_state=5)
+    reg = SGDRegressor(warm_start=True)
+    reg.partial_fit(X_train,y_train)
+    y_pred_reg = reg.predict(X_test)
+    initial_error = ((y_pred_reg - y_test.to_numpy())**2)
+    
+    print(initial_error)
+    sys.exit()
+
+    # Online learning for 30%
+    updated_errors = []
+    for idx, rows in dataframe:
+        reg.partial_fit([rows],[target[idx]])
+        y_pred_reg = reg.predict(X_test)
+        updated_errors.append(mean_squared_error(y_pred_reg,y_test))
+
+    print(sum(updated_errors)/len(updated_errors))
 
 
 def main():
@@ -123,8 +159,9 @@ def main():
     dataframe = read_data(args.data)
     target = args.target
     processed_dataframe = preprocess_data(dataframe)
-    reduced_dataframe = feature_selection(processed_dataframe,10,target) 
-    pass_to_model(reduced_dataframe, processed_dataframe[target])
+    reduced_dataframe, important_features = feature_selection(processed_dataframe,10,target) 
+    #pass_to_model(reduced_dataframe, processed_dataframe[target])
+    implement_online(reduced_dataframe[important_features], processed_dataframe[target])
 
 
 if __name__=="__main__":
