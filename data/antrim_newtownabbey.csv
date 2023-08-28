@@ -1,0 +1,561 @@
+Local Government District,Electoral Ward (2014),Sale Year,No. of Verified Sales,Minimum Sale Price,Lower Quartile Sale Price,Median Sale Price,Simple Mean Sale Price,Upper Quartile Sale Price,Maximum Sale Price
+Antrim and Newtownabbey,Abbey,2005,85,24920,74000,82000,93427,108901,220000
+Antrim and Newtownabbey,Abbey,2006,120,45000,86000,111000,121329,138000,499000
+Antrim and Newtownabbey,Abbey,2007,57,30000,159975,192500,221449,238458,660000
+Antrim and Newtownabbey,Abbey,2008,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Abbey,2009,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Abbey,2010,41,.,.,.,.,.,.
+Antrim and Newtownabbey,Abbey,2011,46,40000,65500,117000,115198,139500,270000
+Antrim and Newtownabbey,Abbey,2012,44,28000,55000,74000,100307,135000,335000
+Antrim and Newtownabbey,Abbey,2013,53,38500,52625,76000,93885,125000,249000
+Antrim and Newtownabbey,Abbey,2014,42,36000,76000,109000,114093,137000,345000
+Antrim and Newtownabbey,Abbey,2015,61,45000,67750,84125,111006,145323,256100
+Antrim and Newtownabbey,Abbey,2016,72,48000,69950,102750,121948,152590,490000
+Antrim and Newtownabbey,Abbey,2017,60,48000,67500,118000,121387,146000,360000
+Antrim and Newtownabbey,Abbey,2018,68,53500,73000,98000,120654,152000,375000
+Antrim and Newtownabbey,Aldergrove,2005,58,70000,125950,160000,173975,212500,395000
+Antrim and Newtownabbey,Aldergrove,2006,75,30000,150000,180500,196248,230000,427500
+Antrim and Newtownabbey,Aldergrove,2007,56,63000,165000,210349,242887,345000,450000
+Antrim and Newtownabbey,Aldergrove,2008,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2009,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2010,18,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2011,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2012,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2013,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Aldergrove,2014,40,82500,107000,147500,168625,220000,322000
+Antrim and Newtownabbey,Aldergrove,2015,40,85000,119950,124975,146513,166500,350000
+Antrim and Newtownabbey,Aldergrove,2016,35,85000,108000,141975,150942,175000,310000
+Antrim and Newtownabbey,Aldergrove,2017,50,53000,114000,184950,185683,237440,375000
+Antrim and Newtownabbey,Aldergrove,2018,44,55000,123000,157000,180665,234950,350000
+Antrim and Newtownabbey,Antrim Centre,2005,95,37000,72000,88975,92199,112500,202500
+Antrim and Newtownabbey,Antrim Centre,2006,120,42500,90000,112500,112743,130000,230000
+Antrim and Newtownabbey,Antrim Centre,2007,66,50320,140000,160500,164897,190000,338455
+Antrim and Newtownabbey,Antrim Centre,2008,38,55000,125000,140000,143843,179500,260000
+Antrim and Newtownabbey,Antrim Centre,2009,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Antrim Centre,2010,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Antrim Centre,2011,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Antrim Centre,2012,43,40164,55000,69000,83870,107000,185000
+Antrim and Newtownabbey,Antrim Centre,2013,42,40000,54000,65000,76924,80000,250000
+Antrim and Newtownabbey,Antrim Centre,2014,44,34500,60000,70000,90397,119000,249999
+Antrim and Newtownabbey,Antrim Centre,2015,52,40100,65000,80000,87786,109000,173000
+Antrim and Newtownabbey,Antrim Centre,2016,57,41000,69000,95000,102155,133000,200000
+Antrim and Newtownabbey,Antrim Centre,2017,86,52000,72000,94500,102671,124950,280000
+Antrim and Newtownabbey,Antrim Centre,2018,96,58000,82000,122500,121828,146272,288500
+Antrim and Newtownabbey,Ballyclare East,2005,109,29040,76250,97750,102684,120051,223500
+Antrim and Newtownabbey,Ballyclare East,2006,161,59000,96000,123000,129005,145000,300000
+Antrim and Newtownabbey,Ballyclare East,2007,124,68000,145000,174000,195347,221000,800000
+Antrim and Newtownabbey,Ballyclare East,2008,48,58824,95000,135000,139393,180000,275850
+Antrim and Newtownabbey,Ballyclare East,2009,50,43000,89725,123500,121397,137250,245000
+Antrim and Newtownabbey,Ballyclare East,2010,44,40000,78000,107000,110592,133500,230000
+Antrim and Newtownabbey,Ballyclare East,2011,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyclare East,2012,43,38000,60000,77500,85200,100000,185000
+Antrim and Newtownabbey,Ballyclare East,2013,57,24000,47000,58000,75735,88000,187500
+Antrim and Newtownabbey,Ballyclare East,2014,77,36000,68000,77000,91893,115000,205000
+Antrim and Newtownabbey,Ballyclare East,2015,97,47000,80000,103500,102414,121000,200000
+Antrim and Newtownabbey,Ballyclare East,2016,76,51000,82500,106950,111072,131000,260000
+Antrim and Newtownabbey,Ballyclare East,2017,52,44500,70000,91000,100304,124950,199000
+Antrim and Newtownabbey,Ballyclare East,2018,68,39975,78000,106000,105195,128500,245000
+Antrim and Newtownabbey,Ballyclare West,2005,75,28942,93450,124000,124628,159000,208000
+Antrim and Newtownabbey,Ballyclare West,2006,76,58000,105000,145000,152475,183000,400000
+Antrim and Newtownabbey,Ballyclare West,2007,67,62500,150000,210000,230746,250000,850000
+Antrim and Newtownabbey,Ballyclare West,2008,14,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyclare West,2009,36,76817,130000,160000,162813,200000,260000
+Antrim and Newtownabbey,Ballyclare West,2010,39,48000,115000,142500,147855,189950,290000
+Antrim and Newtownabbey,Ballyclare West,2011,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyclare West,2012,41,45000,89250,112750,121248,154975,220000
+Antrim and Newtownabbey,Ballyclare West,2013,36,40000,83950,106000,114721,150000,225000
+Antrim and Newtownabbey,Ballyclare West,2014,63,29000,82000,120000,123715,150000,301723
+Antrim and Newtownabbey,Ballyclare West,2015,65,40000,100500,133000,131816,164500,290834
+Antrim and Newtownabbey,Ballyclare West,2016,41,54000,109500,125475,130961,164000,230000
+Antrim and Newtownabbey,Ballyclare West,2017,123,40000,127300,155829,156800,189000,276500
+Antrim and Newtownabbey,Ballyclare West,2018,100,57000,119950,132950,145079,157000,345000
+Antrim and Newtownabbey,Ballyduff,2005,65,29938,65000,76250,89918,120000,172343
+Antrim and Newtownabbey,Ballyduff,2006,94,33611,97500,119950,127095,147500,225000
+Antrim and Newtownabbey,Ballyduff,2007,70,36500,149000,167500,181245,220000,340000
+Antrim and Newtownabbey,Ballyduff,2008,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyduff,2009,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyduff,2010,18,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyduff,2011,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyduff,2012,32,31000,60000,104475,95634,125000,162000
+Antrim and Newtownabbey,Ballyduff,2013,32,42000,65000,97000,96335,124950,146250
+Antrim and Newtownabbey,Ballyduff,2014,40,39950,61000,81500,84446,105000,145000
+Antrim and Newtownabbey,Ballyduff,2015,37,43500,69000,97500,99337,118500,215000
+Antrim and Newtownabbey,Ballyduff,2016,62,55000,72500,109000,105507,128000,217500
+Antrim and Newtownabbey,Ballyduff,2017,48,43000,88500,124950,118531,143000,218000
+Antrim and Newtownabbey,Ballyduff,2018,35,57000,84000,108000,111788,135500,179950
+Antrim and Newtownabbey,Ballyhenry,2005,57,46000,105000,139950,143046,158079,260000
+Antrim and Newtownabbey,Ballyhenry,2006,46,97250,127000,163459,175640,205500,660000
+Antrim and Newtownabbey,Ballyhenry,2007,44,76077,195000,210000,218575,249500,395000
+Antrim and Newtownabbey,Ballyhenry,2008,13,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2009,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2010,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2011,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2012,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2013,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2014,45,85000,119950,148450,146973,173500,238500
+Antrim and Newtownabbey,Ballyhenry,2015,43,70000,109975,149975,148013,179475,225000
+Antrim and Newtownabbey,Ballyhenry,2016,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyhenry,2017,35,64000,103500,125000,135750,159950,224000
+Antrim and Newtownabbey,Ballyhenry,2018,35,76500,123000,166000,166965,197500,295000
+Antrim and Newtownabbey,Ballynure,2005,62,70000,105500,136000,154304,179950,380000
+Antrim and Newtownabbey,Ballynure,2006,87,64000,119000,153500,163126,208000,360000
+Antrim and Newtownabbey,Ballynure,2007,48,81000,176000,237500,253401,345000,462000
+Antrim and Newtownabbey,Ballynure,2008,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballynure,2009,32,75000,120000,155000,172084,215000,330000
+Antrim and Newtownabbey,Ballynure,2010,35,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballynure,2011,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballynure,2012,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballynure,2013,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballynure,2014,41,49000,92500,113000,128238,143000,300000
+Antrim and Newtownabbey,Ballynure,2015,50,46000,115000,155000,155407,176000,342000
+Antrim and Newtownabbey,Ballynure,2016,59,59000,96000,132950,154367,210000,337000
+Antrim and Newtownabbey,Ballynure,2017,46,74000,103500,150250,162006,179000,370000
+Antrim and Newtownabbey,Ballynure,2018,50,74950,107500,146500,154000,166477,368000
+Antrim and Newtownabbey,Ballyrobert,2005,76,70000,106975,121225,137526,149000,295000
+Antrim and Newtownabbey,Ballyrobert,2006,76,55975,125000,148000,168687,180000,575000
+Antrim and Newtownabbey,Ballyrobert,2007,67,71000,198000,225000,278400,320000,1000000
+Antrim and Newtownabbey,Ballyrobert,2008,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyrobert,2009,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyrobert,2010,33,88000,125000,139500,155913,170000,295000
+Antrim and Newtownabbey,Ballyrobert,2011,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Ballyrobert,2012,31,90000,112000,124950,144476,155000,286000
+Antrim and Newtownabbey,Ballyrobert,2013,35,80000,106000,122475,135666,150000,250000
+Antrim and Newtownabbey,Ballyrobert,2014,72,81000,105000,124950,137706,157500,327000
+Antrim and Newtownabbey,Ballyrobert,2015,78,87000,119750,125369,132555,135188,289500
+Antrim and Newtownabbey,Ballyrobert,2016,77,88000,124475,137500,151899,172475,277000
+Antrim and Newtownabbey,Ballyrobert,2017,82,95000,121500,152500,159121,179978,343000
+Antrim and Newtownabbey,Ballyrobert,2018,81,59000,129950,145739,168075,187210,368225
+Antrim and Newtownabbey,Burnthill,2005,72,33750,87000,115143,108122,130000,190000
+Antrim and Newtownabbey,Burnthill,2006,99,34500,117500,135500,137729,160000,237000
+Antrim and Newtownabbey,Burnthill,2007,72,39995,132500,181000,180712,203000,450000
+Antrim and Newtownabbey,Burnthill,2008,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Burnthill,2009,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Burnthill,2010,33,.,.,.,.,.,.
+Antrim and Newtownabbey,Burnthill,2011,39,41000,67500,105500,107871,140000,204116
+Antrim and Newtownabbey,Burnthill,2012,38,40000,80000,112500,113671,128000,250000
+Antrim and Newtownabbey,Burnthill,2013,48,30000,68000,90000,93554,121000,165000
+Antrim and Newtownabbey,Burnthill,2014,49,40000,89500,109750,111591,135500,208000
+Antrim and Newtownabbey,Burnthill,2015,48,51000,92000,124950,121492,144950,219000
+Antrim and Newtownabbey,Burnthill,2016,94,47500,116000,144950,137244,155000,209950
+Antrim and Newtownabbey,Burnthill,2017,75,51500,114500,152500,140846,159950,240000
+Antrim and Newtownabbey,Burnthill,2018,78,50000,107975,133000,134617,165000,209950
+Antrim and Newtownabbey,Carnmoney,2005,53,36500,95000,98500,102854,109000,160000
+Antrim and Newtownabbey,Carnmoney,2006,51,40000,113250,126000,125643,141403,180000
+Antrim and Newtownabbey,Carnmoney,2007,36,52000,179000,206000,189544,220000,265000
+Antrim and Newtownabbey,Carnmoney,2008,36,47696,132500,150000,153960,188000,240000
+Antrim and Newtownabbey,Carnmoney,2009,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney,2010,13,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney,2011,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney,2012,32,32310,92500,111500,108279,130000,165000
+Antrim and Newtownabbey,Carnmoney,2013,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney,2014,41,85000,96500,106000,106321,115975,125000
+Antrim and Newtownabbey,Carnmoney,2015,41,63000,100000,108725,110159,123000,155000
+Antrim and Newtownabbey,Carnmoney,2016,56,69950,99950,115000,118169,130000,184950
+Antrim and Newtownabbey,Carnmoney,2017,33,69000,100000,111975,116530,127000,189950
+Antrim and Newtownabbey,Carnmoney,2018,48,85000,103500,113750,115799,129600,152000
+Antrim and Newtownabbey,Carnmoney Hill,2005,66,29582,80000,88000,109164,113000,285000
+Antrim and Newtownabbey,Carnmoney Hill,2006,101,42000,98000,116000,123528,138000,350000
+Antrim and Newtownabbey,Carnmoney Hill,2007,65,38000,150000,165000,187587,208000,385000
+Antrim and Newtownabbey,Carnmoney Hill,2008,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney Hill,2009,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney Hill,2010,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney Hill,2011,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Carnmoney Hill,2012,44,42000,59750,100000,96339,115000,245000
+Antrim and Newtownabbey,Carnmoney Hill,2013,49,40000,59975,101250,122046,180500,250000
+Antrim and Newtownabbey,Carnmoney Hill,2014,63,31500,60000,92500,112152,162500,275000
+Antrim and Newtownabbey,Carnmoney Hill,2015,56,45000,72000,102000,112458,124950,279500
+Antrim and Newtownabbey,Carnmoney Hill,2016,64,47970,65000,89000,109344,127950,295000
+Antrim and Newtownabbey,Carnmoney Hill,2017,52,58000,74000,99975,115847,112000,285000
+Antrim and Newtownabbey,Carnmoney Hill,2018,52,60000,83000,115000,126979,149950,245000
+Antrim and Newtownabbey,Clady,2005,45,55000,116000,157950,170266,225000,356050
+Antrim and Newtownabbey,Clady,2006,73,90000,148000,192000,218565,275000,420828
+Antrim and Newtownabbey,Clady,2007,41,106000,213500,240000,284742,340000,750000
+Antrim and Newtownabbey,Clady,2008,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2009,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2010,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2011,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2012,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2013,35,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2014,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2015,33,.,.,.,.,.,.
+Antrim and Newtownabbey,Clady,2016,46,66250,128000,145000,163867,187500,325000
+Antrim and Newtownabbey,Clady,2017,51,102000,137500,162000,190696,230000,365410
+Antrim and Newtownabbey,Clady,2018,39,75000,139250,183695,215255,287500,409000
+Antrim and Newtownabbey,Collinbridge,2005,39,59950,102950,118500,128397,160000,199500
+Antrim and Newtownabbey,Collinbridge,2006,40,83000,121000,165000,154450,182500,241000
+Antrim and Newtownabbey,Collinbridge,2007,48,76750,190000,224000,235416,270000,520000
+Antrim and Newtownabbey,Collinbridge,2008,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Collinbridge,2009,34,109000,137500,150250,168264,212500,300000
+Antrim and Newtownabbey,Collinbridge,2010,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Collinbridge,2011,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Collinbridge,2012,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Collinbridge,2013,34,70000,95500,117500,123539,152250,185000
+Antrim and Newtownabbey,Collinbridge,2014,41,64950,105000,132000,128587,147000,217500
+Antrim and Newtownabbey,Collinbridge,2015,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Collinbridge,2016,40,64950,129950,145000,146188,156500,250000
+Antrim and Newtownabbey,Collinbridge,2017,67,69000,117950,149950,146493,172000,240000
+Antrim and Newtownabbey,Collinbridge,2018,45,68500,129950,145000,154987,175000,277000
+Antrim and Newtownabbey,Cranfield,2005,35,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2006,49,83750,125000,159000,165278,192000,320000
+Antrim and Newtownabbey,Cranfield,2007,34,60000,152000,214000,222083,260000,450000
+Antrim and Newtownabbey,Cranfield,2008,11,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2009,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2010,8,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2011,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2012,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2013,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2014,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2015,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2016,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2017,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Cranfield,2018,38,56000,114000,145000,149421,182950,290000
+Antrim and Newtownabbey,Crumlin,2005,88,42500,97000,119000,121295,148950,195000
+Antrim and Newtownabbey,Crumlin,2006,117,55000,123460,154250,152538,174950,430000
+Antrim and Newtownabbey,Crumlin,2007,80,70000,173000,208500,211435,249950,365000
+Antrim and Newtownabbey,Crumlin,2008,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2009,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2010,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2011,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2012,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2013,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Crumlin,2014,43,46000,72500,110000,114906,145000,240000
+Antrim and Newtownabbey,Crumlin,2015,34,41000,82000,116475,113840,140000,182800
+Antrim and Newtownabbey,Crumlin,2016,46,50000,82500,105650,123135,145000,350000
+Antrim and Newtownabbey,Crumlin,2017,43,48000,90950,123500,118107,135000,195000
+Antrim and Newtownabbey,Crumlin,2018,45,71000,121950,130750,133646,152000,210000
+Antrim and Newtownabbey,Doagh,2005,81,45000,100000,112000,135930,176000,295000
+Antrim and Newtownabbey,Doagh,2006,86,50000,120000,150918,160705,210000,322500
+Antrim and Newtownabbey,Doagh,2007,74,60000,174000,212500,232746,265000,650000
+Antrim and Newtownabbey,Doagh,2008,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Doagh,2009,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Doagh,2010,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Doagh,2011,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Doagh,2012,39,65000,93000,109950,140036,183000,320000
+Antrim and Newtownabbey,Doagh,2013,41,46000,84000,102950,106085,124950,220000
+Antrim and Newtownabbey,Doagh,2014,42,45000,80000,100500,109403,131500,217000
+Antrim and Newtownabbey,Doagh,2015,53,42000,100000,122475,137075,160000,285000
+Antrim and Newtownabbey,Doagh,2016,52,62500,100475,120000,125503,140793,289950
+Antrim and Newtownabbey,Doagh,2017,65,42500,108000,132000,130483,150415,235000
+Antrim and Newtownabbey,Doagh,2018,93,48000,110000,133975,139260,169500,260000
+Antrim and Newtownabbey,Fairview,2005,72,42000,71500,98000,92505,107000,166000
+Antrim and Newtownabbey,Fairview,2006,103,33419,90000,120000,119268,145500,200000
+Antrim and Newtownabbey,Fairview,2007,72,31399,143500,173500,174701,210000,296500
+Antrim and Newtownabbey,Fairview,2008,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Fairview,2009,33,.,.,.,.,.,.
+Antrim and Newtownabbey,Fairview,2010,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Fairview,2011,14,.,.,.,.,.,.
+Antrim and Newtownabbey,Fairview,2012,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Fairview,2013,34,41500,69500,89000,86635,106000,141000
+Antrim and Newtownabbey,Fairview,2014,38,34950,85000,95000,94354,112000,149950
+Antrim and Newtownabbey,Fairview,2015,39,56000,78125,99000,99911,123000,162000
+Antrim and Newtownabbey,Fairview,2016,49,53000,86500,111500,108849,128000,159100
+Antrim and Newtownabbey,Fairview,2017,78,71000,117500,130000,133965,158385,222000
+Antrim and Newtownabbey,Fairview,2018,55,44000,106000,134500,132847,164950,205625
+Antrim and Newtownabbey,Fountain Hill,2005,74,65000,106984,118500,138778,158000,440000
+Antrim and Newtownabbey,Fountain Hill,2006,107,71750,124950,151000,173779,194950,680000
+Antrim and Newtownabbey,Fountain Hill,2007,48,66000,182000,197500,236709,235000,1000000
+Antrim and Newtownabbey,Fountain Hill,2008,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2009,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2010,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2011,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2012,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2013,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Fountain Hill,2014,44,53000,105000,122500,138973,155000,395000
+Antrim and Newtownabbey,Fountain Hill,2015,42,50000,95000,115000,114269,127500,190000
+Antrim and Newtownabbey,Fountain Hill,2016,34,63000,102450,119725,137109,164500,274950
+Antrim and Newtownabbey,Fountain Hill,2017,62,58500,103750,129500,145651,185000,417000
+Antrim and Newtownabbey,Fountain Hill,2018,60,99000,114000,144000,153508,169000,299950
+Antrim and Newtownabbey,Glebe,2005,53,41000,97000,108500,111737,113250,225000
+Antrim and Newtownabbey,Glebe,2006,65,42500,121000,145000,144740,167000,249995
+Antrim and Newtownabbey,Glebe,2007,53,38000,179950,210000,245633,227000,1401000
+Antrim and Newtownabbey,Glebe,2008,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2009,53,45000,125000,137750,141559,160000,250000
+Antrim and Newtownabbey,Glebe,2010,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2011,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2012,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2013,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2014,34,72000,92000,113975,110395,124600,167000
+Antrim and Newtownabbey,Glebe,2015,36,86000,98000,105000,115483,120000,187500
+Antrim and Newtownabbey,Glebe,2016,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Glebe,2017,48,71500,104000,115500,125116,130500,308000
+Antrim and Newtownabbey,Glebe,2018,45,85000,105250,120250,120720,130500,175000
+Antrim and Newtownabbey,Glengormley,2005,75,37500,82000,99975,98058,109000,180000
+Antrim and Newtownabbey,Glengormley,2006,85,55000,96000,120000,121479,137500,248765
+Antrim and Newtownabbey,Glengormley,2007,75,53000,145000,183500,184916,211000,495000
+Antrim and Newtownabbey,Glengormley,2008,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Glengormley,2009,36,36180,90000,110000,110588,130000,175000
+Antrim and Newtownabbey,Glengormley,2010,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Glengormley,2011,34,35000,82000,105000,103481,125000,167500
+Antrim and Newtownabbey,Glengormley,2012,34,30000,48500,84000,79129,95000,190000
+Antrim and Newtownabbey,Glengormley,2013,41,35000,58000,72000,74507,87500,134950
+Antrim and Newtownabbey,Glengormley,2014,61,25000,70000,79625,87836,105000,175000
+Antrim and Newtownabbey,Glengormley,2015,57,41000,71000,87000,87170,102000,143000
+Antrim and Newtownabbey,Glengormley,2016,56,38500,69975,90098,91669,105500,250000
+Antrim and Newtownabbey,Glengormley,2017,63,50250,72000,98000,96602,114950,164950
+Antrim and Newtownabbey,Glengormley,2018,58,52500,83000,97000,99079,114950,230000
+Antrim and Newtownabbey,Greystone,2005,52,40000,68000,75000,79954,82000,310000
+Antrim and Newtownabbey,Greystone,2006,83,60000,80000,92750,100312,114000,220000
+Antrim and Newtownabbey,Greystone,2007,62,62000,120000,135000,139965,147500,369000
+Antrim and Newtownabbey,Greystone,2008,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2009,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2010,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2011,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2012,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2013,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2014,37,37000,46500,61750,83981,115950,185000
+Antrim and Newtownabbey,Greystone,2015,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Greystone,2016,42,39995,57250,80750,86323,115000,186079
+Antrim and Newtownabbey,Greystone,2017,48,47000,65000,99950,100973,121235,325000
+Antrim and Newtownabbey,Greystone,2018,45,45000,67000,109300,100216,121550,229000
+Antrim and Newtownabbey,Hightown,2005,55,51500,75000,110750,107462,135000,190000
+Antrim and Newtownabbey,Hightown,2006,90,37000,100000,134250,142597,161000,510000
+Antrim and Newtownabbey,Hightown,2007,52,77500,171000,192500,199452,230000,300000
+Antrim and Newtownabbey,Hightown,2008,32,37518,120000,140000,157612,205000,300000
+Antrim and Newtownabbey,Hightown,2009,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Hightown,2010,32,68000,97500,120000,122160,135000,205000
+Antrim and Newtownabbey,Hightown,2011,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Hightown,2012,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Hightown,2013,44,46000,86850,100000,104361,125000,180000
+Antrim and Newtownabbey,Hightown,2014,50,47000,90000,117000,112248,135000,187500
+Antrim and Newtownabbey,Hightown,2015,49,56000,97000,114950,119732,136500,218304
+Antrim and Newtownabbey,Hightown,2016,38,44000,100000,118000,117927,135950,212500
+Antrim and Newtownabbey,Hightown,2017,52,55500,101000,120000,119702,139000,177950
+Antrim and Newtownabbey,Hightown,2018,44,56500,100500,129950,125791,144950,249950
+Antrim and Newtownabbey,Jordanstown,2005,59,56347,138000,163750,158648,184000,225000
+Antrim and Newtownabbey,Jordanstown,2006,76,75000,170000,206000,198417,237500,310000
+Antrim and Newtownabbey,Jordanstown,2007,51,104000,288000,310000,319277,390000,600000
+Antrim and Newtownabbey,Jordanstown,2008,14,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2009,18,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2010,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2011,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2012,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2013,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Jordanstown,2014,48,84750,156000,185000,188123,217500,355000
+Antrim and Newtownabbey,Jordanstown,2015,49,79000,164000,184000,185674,232000,254259
+Antrim and Newtownabbey,Jordanstown,2016,44,86000,169950,199500,198505,225000,285000
+Antrim and Newtownabbey,Jordanstown,2017,55,96000,173000,193475,200361,240000,307500
+Antrim and Newtownabbey,Jordanstown,2018,50,85500,167000,184000,187697,206000,290000
+Antrim and Newtownabbey,Mallusk,2005,83,53000,118978,129568,140216,146000,565000
+Antrim and Newtownabbey,Mallusk,2006,134,65000,130500,150000,167085,178500,550000
+Antrim and Newtownabbey,Mallusk,2007,104,68500,190000,220000,233134,250000,860000
+Antrim and Newtownabbey,Mallusk,2008,55,42500,137475,164000,176470,202475,400000
+Antrim and Newtownabbey,Mallusk,2009,71,99750,135750,164725,164400,174975,310000
+Antrim and Newtownabbey,Mallusk,2010,48,52000,127500,159975,153500,175000,249950
+Antrim and Newtownabbey,Mallusk,2011,58,42502,121000,149950,152435,166500,340000
+Antrim and Newtownabbey,Mallusk,2012,73,41000,90000,133750,129029,159500,290000
+Antrim and Newtownabbey,Mallusk,2013,105,48000,109500,128500,131081,148000,245000
+Antrim and Newtownabbey,Mallusk,2014,122,60000,108975,134950,137136,152250,425000
+Antrim and Newtownabbey,Mallusk,2015,171,47000,124950,135000,137267,147750,300000
+Antrim and Newtownabbey,Mallusk,2016,139,70000,120000,139922,144773,155099,290000
+Antrim and Newtownabbey,Mallusk,2017,165,69000,128750,149950,148760,165000,287500
+Antrim and Newtownabbey,Mallusk,2018,144,62500,124000,150000,150029,169950,282000
+Antrim and Newtownabbey,Monkstown,2005,64,32000,59950,92000,105490,132000,240000
+Antrim and Newtownabbey,Monkstown,2006,88,26555,83000,113000,118493,147000,249950
+Antrim and Newtownabbey,Monkstown,2007,77,46620,130000,170000,184041,225000,500000
+Antrim and Newtownabbey,Monkstown,2008,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Monkstown,2009,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Monkstown,2010,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Monkstown,2011,20,.,.,.,.,.,.
+Antrim and Newtownabbey,Monkstown,2012,34,37500,47785,102145,100635,126000,250000
+Antrim and Newtownabbey,Monkstown,2013,39,37000,42500,75400,88685,118000,245000
+Antrim and Newtownabbey,Monkstown,2014,40,37000,45000,102000,108306,137500,280000
+Antrim and Newtownabbey,Monkstown,2015,40,40000,62000,94500,108522,125000,275000
+Antrim and Newtownabbey,Monkstown,2016,56,39000,94000,120000,138910,195000,295000
+Antrim and Newtownabbey,Monkstown,2017,66,45000,70000,132500,123952,153781,276000
+Antrim and Newtownabbey,Monkstown,2018,49,42000,73725,123950,131881,165000,320000
+Antrim and Newtownabbey,Mossley,2005,83,34500,77000,93750,101637,115590,225000
+Antrim and Newtownabbey,Mossley,2006,115,48000,86000,114000,116533,132000,400000
+Antrim and Newtownabbey,Mossley,2007,68,41000,139000,165000,170035,193000,460000
+Antrim and Newtownabbey,Mossley,2008,33,.,.,.,.,.,.
+Antrim and Newtownabbey,Mossley,2009,39,65300,75000,95000,102864,130000,170000
+Antrim and Newtownabbey,Mossley,2010,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Mossley,2011,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Mossley,2012,42,34000,60000,88000,106350,120000,250000
+Antrim and Newtownabbey,Mossley,2013,36,35500,65000,75000,92469,107500,250000
+Antrim and Newtownabbey,Mossley,2014,43,36000,52000,95000,95501,134950,189950
+Antrim and Newtownabbey,Mossley,2015,54,38000,93000,119950,119435,143500,240000
+Antrim and Newtownabbey,Mossley,2016,56,42500,74000,103500,113700,135950,405000
+Antrim and Newtownabbey,Mossley,2017,58,53000,79200,109225,116150,145000,240000
+Antrim and Newtownabbey,Mossley,2018,71,53500,82000,119225,135176,159950,375000
+Antrim and Newtownabbey,O'Neill,2005,48,21060,60000,66500,67351,80000,103000
+Antrim and Newtownabbey,O'Neill,2006,93,26100,71500,85000,87396,97000,188000
+Antrim and Newtownabbey,O'Neill,2007,63,37000,100000,132500,127755,159950,235000
+Antrim and Newtownabbey,O'Neill,2008,34,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2009,15,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2010,21,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2011,18,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2012,33,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2013,23,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2014,33,28000,44000,51125,55385,65000,99950
+Antrim and Newtownabbey,O'Neill,2015,31,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2016,19,.,.,.,.,.,.
+Antrim and Newtownabbey,O'Neill,2017,42,44950,55000,67000,68693,74950,135000
+Antrim and Newtownabbey,O'Neill,2018,42,47500,55000,71750,74347,90000,130000
+Antrim and Newtownabbey,Parkgate,2005,38,75000,119950,185000,192144,250000,448000
+Antrim and Newtownabbey,Parkgate,2006,46,93500,165000,232500,226539,260000,410000
+Antrim and Newtownabbey,Parkgate,2007,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2008,8,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2009,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2010,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2011,11,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2012,13,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2013,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2014,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2015,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2016,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Parkgate,2017,36,102000,187000,230000,240886,300000,550000
+Antrim and Newtownabbey,Parkgate,2018,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2005,66,53000,80000,109500,112150,128500,249500
+Antrim and Newtownabbey,Randalstown,2006,88,59000,96000,140000,142822,185000,300000
+Antrim and Newtownabbey,Randalstown,2007,65,70000,148000,192000,216122,250000,530000
+Antrim and Newtownabbey,Randalstown,2008,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2009,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2010,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2011,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2012,38,44000,95000,120000,117905,132000,200000
+Antrim and Newtownabbey,Randalstown,2013,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Randalstown,2014,47,53000,68000,102475,97734,119000,205000
+Antrim and Newtownabbey,Randalstown,2015,44,43630,74000,111000,112382,130000,195000
+Antrim and Newtownabbey,Randalstown,2016,53,50000,72500,115000,110520,125000,210000
+Antrim and Newtownabbey,Randalstown,2017,51,50000,90000,124950,124428,158000,250000
+Antrim and Newtownabbey,Randalstown,2018,49,55000,81000,115000,119207,139500,235000
+Antrim and Newtownabbey,Rathcoole,2005,53,44000,62500,67500,74634,75000,133000
+Antrim and Newtownabbey,Rathcoole,2006,100,30000,71000,88000,90532,110000,195000
+Antrim and Newtownabbey,Rathcoole,2007,73,35000,110000,140000,138150,155000,450000
+Antrim and Newtownabbey,Rathcoole,2008,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Rathcoole,2009,19,.,.,.,.,.,.
+Antrim and Newtownabbey,Rathcoole,2010,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Rathcoole,2011,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Rathcoole,2012,38,37000,43000,50000,55286,58500,145000
+Antrim and Newtownabbey,Rathcoole,2013,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Rathcoole,2014,43,28500,45000,55000,55326,60000,125000
+Antrim and Newtownabbey,Rathcoole,2015,42,41500,49000,61500,62262,69000,136000
+Antrim and Newtownabbey,Rathcoole,2016,39,39999,58000,65000,70540,78000,133000
+Antrim and Newtownabbey,Rathcoole,2017,45,43500,56000,65250,66161,75000,120000
+Antrim and Newtownabbey,Rathcoole,2018,67,45000,56500,66000,72785,81500,185000
+Antrim and Newtownabbey,Rostulla,2005,54,118000,165000,190000,243375,285000,641667
+Antrim and Newtownabbey,Rostulla,2006,61,92500,193500,249000,263343,310000,700000
+Antrim and Newtownabbey,Rostulla,2007,45,70437,255000,322500,432538,450000,1380000
+Antrim and Newtownabbey,Rostulla,2008,9,.,.,.,.,.,.
+Antrim and Newtownabbey,Rostulla,2009,18,.,.,.,.,.,.
+Antrim and Newtownabbey,Rostulla,2010,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Rostulla,2011,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Rostulla,2012,37,75000,147000,182500,197832,230000,650000
+Antrim and Newtownabbey,Rostulla,2013,44,75000,149563,175000,183288,225000,282000
+Antrim and Newtownabbey,Rostulla,2014,65,48000,159353,189975,195339,230000,475000
+Antrim and Newtownabbey,Rostulla,2015,72,95000,165235,184619,203814,240000,410000
+Antrim and Newtownabbey,Rostulla,2016,63,67000,156950,204722,223683,270000,685000
+Antrim and Newtownabbey,Rostulla,2017,81,77000,179950,219975,227423,256000,668000
+Antrim and Newtownabbey,Rostulla,2018,65,95000,187500,234200,250652,285000,750000
+Antrim and Newtownabbey,Shilvodan,2005,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2006,55,60000,126857,159768,185140,240000,415000
+Antrim and Newtownabbey,Shilvodan,2007,38,150000,210000,227000,270313,325000,460000
+Antrim and Newtownabbey,Shilvodan,2008,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2009,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2010,14,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2011,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2012,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2013,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Shilvodan,2014,42,61000,122000,131475,150469,186500,273000
+Antrim and Newtownabbey,Shilvodan,2015,40,64500,125000,150000,156441,180000,275000
+Antrim and Newtownabbey,Shilvodan,2016,46,69000,135500,163750,182193,224950,370000
+Antrim and Newtownabbey,Shilvodan,2017,41,95000,135000,153000,173379,190000,382500
+Antrim and Newtownabbey,Shilvodan,2018,50,100000,142000,152000,176206,189950,335000
+Antrim and Newtownabbey,Springfarm,2005,120,45000,85000,106903,105173,126121,175000
+Antrim and Newtownabbey,Springfarm,2006,193,60000,120000,139267,141466,164950,249950
+Antrim and Newtownabbey,Springfarm,2007,114,59000,175000,193000,200775,219585,575000
+Antrim and Newtownabbey,Springfarm,2008,43,72213,142950,161500,164557,185285,270000
+Antrim and Newtownabbey,Springfarm,2009,63,56000,123000,132500,134335,148950,220000
+Antrim and Newtownabbey,Springfarm,2010,36,50000,117000,130000,126174,137110,213500
+Antrim and Newtownabbey,Springfarm,2011,35,.,.,.,.,.,.
+Antrim and Newtownabbey,Springfarm,2012,34,45000,90000,110000,109554,123329,187500
+Antrim and Newtownabbey,Springfarm,2013,40,56000,96000,114250,111823,124725,170000
+Antrim and Newtownabbey,Springfarm,2014,75,40500,97500,113950,110102,124950,233472
+Antrim and Newtownabbey,Springfarm,2015,87,45000,102500,119000,116459,129000,190000
+Antrim and Newtownabbey,Springfarm,2016,76,47000,113475,123975,127295,140000,259950
+Antrim and Newtownabbey,Springfarm,2017,86,47000,100000,124000,127538,150000,290000
+Antrim and Newtownabbey,Springfarm,2018,83,59000,115000,130000,132617,144950,266000
+Antrim and Newtownabbey,Steeple,2005,107,37000,65500,73000,77068,84750,150000
+Antrim and Newtownabbey,Steeple,2006,123,55000,85000,96975,103082,115000,370000
+Antrim and Newtownabbey,Steeple,2007,82,56000,125000,140000,138908,155000,225000
+Antrim and Newtownabbey,Steeple,2008,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2009,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2010,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2011,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2012,29,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2013,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Steeple,2014,45,40000,46000,53375,61658,71250,121000
+Antrim and Newtownabbey,Steeple,2015,63,42500,52276,67500,79698,110000,185000
+Antrim and Newtownabbey,Steeple,2016,60,41250,57250,69000,95024,142090,197479
+Antrim and Newtownabbey,Steeple,2017,69,42000,68000,80000,100699,144000,179615
+Antrim and Newtownabbey,Steeple,2018,39,50000,70000,76000,90242,110000,156000
+Antrim and Newtownabbey,Stiles,2005,90,41000,60000,76000,83300,105500,155000
+Antrim and Newtownabbey,Stiles,2006,129,50000,85000,95000,101808,119000,200000
+Antrim and Newtownabbey,Stiles,2007,68,57000,122500,139950,147061,162000,360400
+Antrim and Newtownabbey,Stiles,2008,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2009,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2010,21,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2011,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2012,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2013,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2014,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2015,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Stiles,2016,44,42000,58000,68000,76401,95000,132500
+Antrim and Newtownabbey,Stiles,2017,81,45500,72000,92000,97136,118950,225000
+Antrim and Newtownabbey,Stiles,2018,70,50000,75000,114750,106610,124950,206025
+Antrim and Newtownabbey,Templepatrick,2005,63,60000,120000,172300,175031,210000,400000
+Antrim and Newtownabbey,Templepatrick,2006,110,95000,152146,188500,210383,230026,500000
+Antrim and Newtownabbey,Templepatrick,2007,50,119000,237500,312000,333858,410000,760000
+Antrim and Newtownabbey,Templepatrick,2008,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2009,16,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2010,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2011,24,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2012,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2013,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Templepatrick,2014,36,60000,95000,155000,159122,207000,324670
+Antrim and Newtownabbey,Templepatrick,2015,44,60000,140000,171250,183421,222848,340000
+Antrim and Newtownabbey,Templepatrick,2016,56,59000,140000,179950,198358,240000,440000
+Antrim and Newtownabbey,Templepatrick,2017,63,72000,130000,172000,204310,270000,435000
+Antrim and Newtownabbey,Templepatrick,2018,70,88000,140000,183975,199273,240000,565000
+Antrim and Newtownabbey,Toome,2005,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2006,33,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2007,22,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2008,7,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2009,5,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2010,12,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2011,5,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2012,7,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2013,5,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2014,18,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2015,11,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2016,14,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2017,30,.,.,.,.,.,.
+Antrim and Newtownabbey,Toome,2018,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2005,79,37000,77000,94000,96147,112500,175000
+Antrim and Newtownabbey,Valley,2006,110,29400,110000,119950,119927,132000,195000
+Antrim and Newtownabbey,Valley,2007,72,36077,136250,181500,171005,210000,330000
+Antrim and Newtownabbey,Valley,2008,37,38404,117500,147500,146388,171325,240000
+Antrim and Newtownabbey,Valley,2009,27,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2010,23,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2011,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2012,28,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2013,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Valley,2014,42,42000,67000,74000,81934,99000,174000
+Antrim and Newtownabbey,Valley,2015,44,50000,64950,76500,82557,98000,125000
+Antrim and Newtownabbey,Valley,2016,42,37700,70750,85500,92876,112500,179950
+Antrim and Newtownabbey,Valley,2017,45,43000,65000,86196,93499,118000,162500
+Antrim and Newtownabbey,Valley,2018,52,42500,72000,90000,95485,115000,190000
+Antrim and Newtownabbey,Whitehouse,2005,32,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2006,59,40000,77000,125000,158538,176000,685000
+Antrim and Newtownabbey,Whitehouse,2007,57,80000,130000,187500,230488,315000,650000
+Antrim and Newtownabbey,Whitehouse,2008,17,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2009,41,50000,80000,108500,109895,125000,200000
+Antrim and Newtownabbey,Whitehouse,2010,47,60000,110000,110000,127564,124950,450000
+Antrim and Newtownabbey,Whitehouse,2011,15,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2012,26,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2013,25,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2014,31,.,.,.,.,.,.
+Antrim and Newtownabbey,Whitehouse,2015,33,40000,56000,72500,84594,92000,300000
+Antrim and Newtownabbey,Whitehouse,2016,38,41500,68000,83975,94435,96000,395000
+Antrim and Newtownabbey,Whitehouse,2017,45,46000,69000,88975,98683,100500,340000
+Antrim and Newtownabbey,Whitehouse,2018,45,52000,85000,146475,159412,195000,407761
