@@ -22,6 +22,7 @@ class LinearRegression:
     def predict(self, X):
         return np.dot(X, self.weights) + self.bias
 
+"""
 # Example usage
 X = np.array([[1, 2], [2, 3], [3, 4]])
 y = np.array([2, 3, 4])
@@ -31,4 +32,4 @@ model.fit(X, y)
 
 new_data = np.array([[4, 5]])
 predicted_values = model.predict(new_data)
-print(predicted_values)
+"""

@@ -1,27 +1,57 @@
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from sklearn.preprocessing import LabelEncoder
 
-def pass_to_model(dataframe):
+from sklearn.feature_selection import mutual_info_classif
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import StandardScaler
+
+import argparse
+import math
+import sys
+
+from simple_linear_regression import LinearRegression
+
+def pass_to_model(dataframe,target):
+    split_ratio = 0.8 
+    model = LinearRegression(learning_rate=0.01, num_iterations=1000)
+    scaler = StandardScaler()
+    X = scaler.fit_transform(dataframe)
+    y = (target-target.mean())/target.std()
+
+    length = X.shape[0]
+    split_length = math.ceil(length*split_ratio)
+    X_train, X_test, y_train, y_test = X[:split_length], X[split_length:], y[:split_length], y[split_length:]
     
+    model.fit(X_train, y_train)
+    predicted_values = model.predict(X_test)
+    mse = ((predicted_values - y_test.to_numpy())**2)
+    print("MSE value is :", np.average(mse))
+
     return
 
 
 def feature_selection(dataframe,num_columns,target_column):
-    #1) Select the features which have atleast 30% correlation
-    highly_correlated_features = dataframe.columns[~dataframe.corr()[target_column].between(-0.3,0.3, inclusive='both')]
-    
+    print(dataframe.columns)
     try:
-    #2) Use information gain to filter out more features
-        importances = mutual_info_classif(dataframe[highly_correlated_features.tolist()],dataframe[target_column])
-        feat_importance = pd.Series(importances,highly_correlated_features).sort_values(ascending=False)
+        #1) Select the features which have atleast 30% correlation
+        highly_correlated_features = dataframe.columns[~dataframe.corr()[target_column].between(-0.3,0.3, inclusive='both')] 
+        print("The highly correlated features are :",highly_correlated_features)
 
-        # 3) Create a new dataframe with which includes only the most important features
-        new_df = dataframe[feat_importance[1:num_columns+1].index.tolist()]
+        try:
+        #2) Use information gain to filter out more features
+            importances = mutual_info_classif(dataframe[highly_correlated_features.tolist()],dataframe[target_column])
+            feat_importance = pd.Series(importances,highly_correlated_features).sort_values(ascending=False)
+
+            # 3) Create a new dataframe with which includes only the most important features
+            new_df = dataframe[feat_importance[1:num_columns+1].index.tolist()]
+        except:
+            print("Error extracting the features from the dataframe")
+            feat_importance = abs(dataframe.corr()["MEDV"]).sort_values(ascending=False)
+            new_df = dataframe[feat_importance[:num_columns+1].index.tolist()]
     except:
-        print("Error extracting the features from the dataframe")
-
+        important_features = abs(dataframe.corr()["SalePrice"]).sort_values(ascending=False).index.tolist()[1:11]
+        new_df = dataframe[important_features]
     return new_df
 
 
@@ -62,24 +92,34 @@ def remove_null_values(check_dataframe):
 def preprocess_data(dataframe):
     dataframe_without_null, check = remove_null_values(dataframe) 
     assert check==True, "Null values exist"
+    print(dataframe_without_null.columns)
     processed_dataframe = label_encoding(dataframe_without_null)
     return processed_dataframe 
 
 
-def read_data():
-    dataframe = pd.read_csv("data/Ames_housing.csv")
-    print("The shape of the data is",dataframe.shape)
-    print("The head of the dataframe is",dataframe.head())
+def read_data(dataname):
+    if dataname=="Boston_housing":
+        names = ['CRIM', 'ZN', 'INDUS', 'CHAS', 'NOX', 'RM', 'AGE', 'DIS', 'RAD', 'TAX', 'PTRATIO', 'B', 'LSTAT', 'MEDV']
+        dataframe = pd.read_csv(r"data/"+dataname+".csv", delim_whitespace=True, names=names)
+    else:
+        dataframe = pd.read_csv("data/"+dataname+".csv")
+    # print("The shape of the data is",dataframe.shape)
+    # print("The head of the dataframe is",dataframe.head())
     # To get more information regarding the dataset perform dataframe.describe(), dataframe.info()
     return dataframe
 
 
 def main():
-    dataframe = read_data()
-    target = "SalePrice"
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-d","--data",help="Enter the name of the dataset")
+    parser.add_argument("-t","--target",help="Enter the target column")
+    args = parser.parse_args()
+
+    dataframe = read_data(args.data)
+    target = args.target
     processed_dataframe = preprocess_data(dataframe)
     reduced_dataframe = feature_selection(processed_dataframe,10,target) 
-    pass_to_model(reduced_dataframe)
+    pass_to_model(reduced_dataframe, processed_dataframe[target])
 
 
 if __name__=="__main__":
